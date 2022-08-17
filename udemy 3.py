@@ -1,3 +1,4 @@
+#Count legs
 chiken_legs = 2
 goat_legs = 4
 cow_legs = 4
